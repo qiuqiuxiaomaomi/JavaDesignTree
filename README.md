@@ -45,8 +45,16 @@ Java设计模式
 
 ![](https://i.imgur.com/bcsWwy6.png)
 
+单例模式--同步校验锁
+
+![](https://i.imgur.com/Q8KcTkc.png)
+
 <pre>
 7) 单例模式
+
+      1) 懒汉模式
+      2）饿汉模式
+      3）
 </pre>
 
 ### 静态代理
